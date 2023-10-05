@@ -1,4 +1,4 @@
-Time, Temperature(C), Prev. Hrs. Energy consumption (kW-hr), Voltage (volts), Current (amps), Average Energy till now (kW-hr), Energy Consumption Estimated for Current Hr. (kW-hr)
+Time, Temperature(C), Prev. Hrs. Energy consumption (W-hr), Voltage (volts), Current (amps), Average Energy till now (W-hr), Energy Consumption Estimated for Current Hr. (W-hr)
 17, 23.6892, 94.8972, 223.514, 15.5775, 210.777, 3793.99
 18, 20.0977, 3793.99, 234.786, 9.9544, 323.232, 2347.42
 19, 35.4932, 2347.42, 226.171, 16.2007, 513.139, 4121.37
